@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "stuno": 1201,
+      "name": "Hiba",
+      "course": "Arts",
+      "fees": 1000
+    },
+    {
+      "id": "2",
+      "stuno": 1202,
+      "name": "Laiba",
+      "course": "Maths",
+      "fees": 1200
+    },
+    {
+      "id": "3",
+      "stuno": 1203,
+      "name": "Amaira",
+      "course": "Sience",
+      "fees": 1200
+    },
+    {
+      "id": "4",
+      "stuno": 1204,
+      "name": "Ayaz Ali",
+      "course": "Social Sience",
+      "fees": 1500
+    },
+    {
+      "id": "38b3",
+      "stuno": "1206",
+      "name": "Ashfaq",
+      "course": "MERN",
+      "fees": "45000"
+    },
+    {
+      "id": "4543",
+      "stuno": "1205",
+      "name": "Aaliyan",
+      "course": "English",
+      "fees": "1500"
+    }
+  ]
+}
